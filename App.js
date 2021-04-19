@@ -6,7 +6,7 @@ import Login from './src/screens/login';
 import 'react-native-gesture-handler';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from "@react-navigation/stack"
-import { isSignedIn } from './src/services/security';
+//import { isSignedIn } from './src/services/security';
 
 export default function App() {
 
